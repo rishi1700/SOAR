@@ -1,0 +1,14 @@
+{
+    "jwtSecret": "mySupersecretkey",
+    "mongoURI": "mongodb://localhost:27017",
+    "elasticsearch": {
+      "host": "https://192.168.18.11:9200",
+      "username": "elastic",
+      "password": "ChangeME"
+    },
+    "thehive": {
+      "url": "http://192.168.18.34:9000",
+      "apiKey": "cpynfPzwsGkIZEOPYjlnV2jyiU+acSfC"
+    }
+  }
+  
